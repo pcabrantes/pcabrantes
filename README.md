@@ -1,4 +1,4 @@
-<h3 align="center">CTO na Lilu e Professor na FIAP</h3>
+<h3 align="center">CTO at Lilu | Professor at FIAP</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcabrantes" alt="pcabrantes" /></a> </p>
 
